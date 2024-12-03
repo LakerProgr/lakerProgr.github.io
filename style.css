@@ -1,0 +1,27 @@
+#butnColor{
+    float: left;
+    margin-right: 170px;
+}
+
+td{
+    padding-right: 220px;
+}
+hr{
+    width: 1800px;
+}
+
+#text{
+    width: 100%;
+}
+
+#txt{
+    text-align: center;
+}
+
+#text{
+    font-weight: lighter;
+}
+
+#but{
+    margin-right: 100px
+}
