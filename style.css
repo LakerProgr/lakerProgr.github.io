@@ -7,21 +7,26 @@ td{
     padding-right: 220px;
 }
 hr{
-    width: 1800px;
+    width: 1817px;
 }
 
 #text{
     width: 100%;
+    font-weight: lighter;
 }
 
 #txt{
     text-align: center;
 }
 
-#text{
-    font-weight: lighter;
+#but{
+    margin-right: 100px;
 }
 
-#but{
-    margin-right: 100px
+#div{
+    margin-left: 45%;
+    border: solid;
+    width: 190px;
+    height: 100px;
+    font-weight: bolder;
 }
