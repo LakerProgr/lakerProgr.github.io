@@ -1,7 +1,7 @@
 #butnColor{
     float: left;
     margin-right: 170px;
-}
+} /* класс кнопки*/
 
 td{
     padding-right: 220px;
@@ -21,7 +21,7 @@ hr{
 
 #but{
     margin-right: 100px;
-}
+} /* кнопка бонусов*/
 
 #div{
     margin-left: 45%;
